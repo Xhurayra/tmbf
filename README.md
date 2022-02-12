@@ -21,13 +21,13 @@ $ pip install bs4
 
 $ pip install futures
 
-$ git clone https://github.com/Zuck-Ker/kucing
+$ git clone https://github.com/Yoshi-Tzy/ymbf
 
 # Jalankan Script 
 
-$ cd kucing
+$ cd ymbf
 
-$ python ultraHD.py
+$ python ymb.py
 
 # Note! 
 
