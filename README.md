@@ -7,8 +7,8 @@ git clone https://github.com/Yoshi-Tzy/tmbf
 cd tmbf              
 python tmbf.py     
 # PASSWORD & USERNAME
-PASSWORD = YOSHI
-password = heker
+PASSWORD = YOSHI             
+password = heker          
 
 # THANKS TO 
 • ERI KDR           
