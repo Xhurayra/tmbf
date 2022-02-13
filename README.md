@@ -5,7 +5,10 @@ pkg update && pkg upgrade
 pkg install git                    
 git clone https://github.com/Yoshi-Tzy/tmbf             
 cd tmbf              
-python tmbf.py               
+python tmbf.py     
+# PASSWORD & USERNAME
+'USERNAME = YOSHI
+'password = heker
 
 # THANKS TO 
 • ERI KDR           
