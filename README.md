@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SELAMAT+DATANG+DI+GITHUB+Zuck+XD)](https://git.io/typing-svg)
 
 # assalamualaikum
-# YOSMBF
+# TMBF
 
 Script Crack Facebook❤😙
 
@@ -27,7 +27,7 @@ $ git clone https://github.com/Yoshi-Tzy/ymbf
 
 $ cd ymbf
 
-$ python ymb.py
+$ python tmbf.py
 
 # Note! 
 
@@ -35,7 +35,7 @@ $ Salin Semua Teks Tanpa ($)
 
 # kalian bisa hubungi gua di sini
 
-$ Whatsapp : wa.me/15075961235
+$ Whatsapp : 
 $ Facebook : 
 
 
